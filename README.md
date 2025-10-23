@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/mayurdongare269/mayurdongare269/blob/main/githubTem.png?raw=true" alt="banner" width="90%">
+  <!-- <img src="https://github.com/mayurdongare269/mayurdongare269/blob/main/githubTem.png?raw=true" alt="banner" width="90%"> -->
 </p>
 
 <h1 align="center">Hi 👋, I'm Mayur Dongare</h1>
