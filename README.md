@@ -19,7 +19,7 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F72A&center=true&width=435&lines=Java+Developer;MERN+Stack+Learner;DS%26A+Enthusiast;Cyber+Security+Researcher)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F72A&center=true&width=435&lines=Java+Developer;MERN+Stack+;DS%26A+Enthusiast;Cyber+Security+Researcher)
 </div>
 
 ---
