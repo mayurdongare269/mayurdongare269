@@ -1,5 +1,4 @@
-<p align="center">
-</p>
+<p align="center"></p>
 
 <h1 align="center">Hi 👋, I'm Mayur Dongare</h1>
 
@@ -80,7 +79,6 @@
   <img src="202508.gif" width="160">
 </p>
 
-
 ---
 
 # 📈 GitHub Stats
@@ -97,14 +95,18 @@
 ---
 
 <h2 align="center">🐍 Contribution Snake</h2>
-<!-- <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</p> -->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mayurdongare269/mayurdongare269/output/snake.svg" />
 </p>
 
+---
+
+# 💬 Quote I Follow
+
+<p align="center">
+  <em>"Talk is cheap. Show me the code." — Linus Torvalds</em>
+</p>
 
 ---
 
@@ -115,14 +117,6 @@
   <a href="mailto:mayurddongare@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" width="40"></a>
   <a href="https://www.instagram.com/mayurdongare78/"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" width="40"></a>
 </p>
-
----
-
-# 💡 Currently Focusing On
-- [ ] 100 Days of Code  
-- [ ] Mastering DSA  
-- [ ] Full Stack Projects  
-- [ ] ML + Agentic AI  
 
 ---
 
