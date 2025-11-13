@@ -110,9 +110,10 @@
 
 # 💬 Quote I Follow
 
-<p align="center">
-  <em>"Talk is cheap. Show me the code." - Linus Torvalds</em>
+<p align="center" style="padding: 10px; border-radius: 10px; background: rgba(255,255,255,0.04); backdrop-filter: blur(3px); border: 1px solid rgba(255,255,255,0.15);">
+  <em>"Do it until you no longer need to introduce yourself." — Anonymous</em>
 </p>
+
 
 ---
 
