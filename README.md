@@ -74,17 +74,10 @@
 # 🟧 LeetCode Badges (Earned)
 
 <p align="center">
-  <!-- 200 Days -->
-  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-200.gif" width="160">
-
-  <!-- 100 Days -->
-  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-100.gif" width="160">
-
-  <!-- 50 Days -->
-  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-50.gif" width="160">
-
-  <!-- August Badge -->
-  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-08.gif" width="160">
+  <img src="200.gif" width="160">
+  <img src="25100.gif" width="160">
+  <img src="2550.gif" width="160">
+  <img src="202508.gif" width="160">
 </p>
 
 
