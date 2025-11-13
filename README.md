@@ -75,17 +75,12 @@
 
 <p align="center">
 
-  <!-- 200 Days Badge -->
-  <img src="200.gif" width="160" style="border-radius: 10px; box-shadow: 0 0 20px #ffae00;">
+  
+  <img src="200.gif" width="160">
+  <img src="25100.gif" width="160">
+  <img src="2550.gif" width="160">
+  <img src="202508.gif" width="160">
 
-  <!-- 100 Days Badge -->
-  <img src="25100.gif" width="160" style="border-radius: 10px; box-shadow: 0 0 20px #00ccff;">
-
-  <!-- 50 Days Badge -->
-  <img src="2550.gif" width="160" style="border-radius: 10px; box-shadow: 0 0 20px #00ff66;">
-
-  <!-- August Badge -->
-  <img src="202508.gif" width="160" style="border-radius: 10px; box-shadow: 0 0 20px #ff8800;">
 
 </p>
 
@@ -116,7 +111,7 @@
 # 💬 Quote I Follow
 
 <p align="center">
-  <em>"Talk is cheap. Show me the code." — Linus Torvalds</em>
+  <em>"Talk is cheap. Show me the code." - Linus Torvalds</em>
 </p>
 
 ---
