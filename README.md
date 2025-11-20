@@ -25,24 +25,7 @@
 
 ---
 
-# 🧑‍💻 Developer Tip of The Day (AI Terminal Box)
 
-<div align="center">
-
-<pre style="background:#0d1117; padding:22px; border-radius:12px; color:#d7dce2; font-size:15px; line-height:1.5; width:85%; text-align:left; border:1px solid #1f2937; box-shadow:0 0 18px #0e7490;">
-<span style="color:#00ff00;">$ dev-tip</span>
-
-💡 <span style="color:#38bdf8;">Pro Tip:</span> Your code is a story.  
-Make it readable, make it predictable — so your future self thanks you.
-
-🛠️ Use meaningful names  
-⚡ Keep functions small  
-🚀 Optimize only after it works   
-
-<span style="color:#00ff00;">✔ Saved to: brain/mayur/upgrades.json</span>
-</pre>
-
-</div>
 
 ---
 
