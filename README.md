@@ -1,10 +1,12 @@
-<p align="center"></p>
+<!-- 🌊 Animated Header -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8000FF&height=200&section=header&text=Mayur%20Dongare&fontSize=60&fontColor=E0E8FF&animation=twinkling" />
+</div>
 
-<h1 align="center">Hi 👋, I'm Mayur Dongare</h1>
-
-<h3 align="center">
-🚀 Aspiring Full Stack Developer | ⚡ ML Enthusiast | 🤖 Agentic AI Practitioner  
-</h3>
+<!-- ⚡ Hacker Terminal Intro -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=720&lines=%3E+Hello+World...;%3E+I'm+Mayur+Dongare;%3E+Full+Stack+Developer;%3E+ML+%26+Agentic+AI+Practitioner;%3E+2x+Hackathon+Winner+🏆;%3E+Building+Cool+Tech+Everyday!🔥" />
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/2×%20Hackathon%20Winner-🏆-brightgreen?style=for-the-badge">
@@ -15,9 +17,7 @@
   <a href="https://linkedin.com/in/mayur-dongare-7b813a296">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/LeetCode-Active%20Coder-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
-  </a>
+  <img src="https://img.shields.io/badge/LeetCode-Active%20Coder-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
   <a href="https://www.hackerearth.com/@mayurdongare666">
     <img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=Blue">
   </a>
@@ -25,24 +25,62 @@
 
 ---
 
+## 🧑‍💻 MY FRIEND  
+has a message for you...
+
 <div align="center">
-  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F72A&center=true&width=550&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;ML+%26+Agentic+AI+Explorer;DSA+Enthusiast;Building+Cool+Tech+Everyday!🔥)
+
+<pre style="background:#0d1117; padding:20px; border-radius:10px; color:#b3b3b3; font-size:15px; line-height:1.4; width:80%; text-align:left;">
+<span style="color:#00ff00;">~ &gt; pytip</span>
+ ________________________________________________
+/ To improve the readability of your code,        \
+\ you can <span style="color:#ff79c6;">import</span> <span style="color:#8be9fd;">__future__</span> <span style="color:#ff79c6;">as</span> <span style="color:#50fa7b;">tomorrow</span>. /
+ ------------------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+</pre>
+
 </div>
 
 ---
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" width="400"/>
-</p>
+# 🧠 About Me (as Code)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mayurdongare269&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+<div align="center">
+
+```yaml
+name: Mayur Dongare
+location: Kolhapur, India
+education: "B.Tech in Computer Science"
+
+interests:
+  - Full Stack Development
+  - Machine Learning
+  - Agentic AI
+  - Computer Vision
+  - NLP
+
+skills:
+  - Java, Python, JavaScript
+  - React, Node.js, Express
+  - MongoDB, MySQL
+  - DSA, Git, Linux
+
+achievements:
+  - "2× Hackathon Winner"
+  - "Runner-up at IIT Dharwad"
+
+mindset: "Do it until you no longer need to introduce yourself."
+```
+
+</div>
 
 ---
 
-# 🛠️ Tech Stack
+# 🧩 Tech Stack
 
 ### **Languages**
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -70,7 +108,6 @@
 
 ---
 
-
 # 🟧 LeetCode Badges (Earned)
 
 <p align="center">
@@ -84,23 +121,17 @@
 
 </p>
 
-
 ---
 
-# 📈 GitHub Stats
+# 📊 GitHub Contribution Graph
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mayurdongare269&show_icons=true&theme=dark&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mayurdongare269&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurdongare269&layout=compact&theme=dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayurdongare269&theme=react-dark&bg_color=0d1117&hide_border=true&line=00eaff&point=ffffff&area=true&custom_title=My%20Contribution%20Graph" />
 </p>
 
 ---
 
-<h2 align="center">🐍 Contribution Snake</h2>
+# 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mayurdongare269/mayurdongare269/output/snake.svg" />
@@ -108,12 +139,19 @@
 
 ---
 
-# 💬 Quote I Follow
+# 🏆 GitHub Trophies
 
-<p align="center" style="padding: 10px; border-radius: 10px; background: rgba(255,255,255,0.04); backdrop-filter: blur(3px); border: 1px solid rgba(255,255,255,0.15);">
-  <em>"Do it until you no longer need to introduce yourself." — Anonymous</em>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=mayurdongare269&theme=discord&column=6&margin-w=10&margin-h=10" />
 </p>
 
+---
+
+# 💬 Quote I Follow
+
+<p align="center" style="padding: 10px; border-radius: 10px; background: rgba(255,255,255,0.03); backdrop-filter: blur(3px); border: 1px solid rgba(255,255,255,0.15);">
+  <em>"Do it until you no longer need to introduce yourself." — Anonymous</em>
+</p>
 
 ---
 
@@ -128,10 +166,8 @@
 ---
 
 <p align="center">Visitor Count</p>
-<p align="center">
-  <img src="https://profile-counter.glitch.me/mayurdongare269/count.svg" />
-</p>
+<p align="center"><img src="https://profile-counter.glitch.me/mayurdongare269/count.svg" /></p>
 
-<p align="center">
+<div align="center">
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"/>
-</p>
+</div>
