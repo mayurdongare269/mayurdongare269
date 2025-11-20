@@ -25,22 +25,21 @@
 
 ---
 
-## 🧑‍💻 MY FRIEND  
-has a message for you...
+# 🧑‍💻 Developer Tip of The Day (AI Terminal Box)
 
 <div align="center">
 
-<pre style="background:#0d1117; padding:20px; border-radius:10px; color:#b3b3b3; font-size:15px; line-height:1.4; width:80%; text-align:left;">
-<span style="color:#00ff00;">~ &gt; pytip</span>
- ________________________________________________
-/ To improve the readability of your code,        \
-\ you can <span style="color:#ff79c6;">import</span> <span style="color:#8be9fd;">__future__</span> <span style="color:#ff79c6;">as</span> <span style="color:#50fa7b;">tomorrow</span>. /
- ------------------------------------------------
-        \   ^__^
-         \  (oo)\_______
-            (__)\       )\/\
-                ||----w |
-                ||     ||
+<pre style="background:#0d1117; padding:22px; border-radius:12px; color:#d7dce2; font-size:15px; line-height:1.5; width:85%; text-align:left; border:1px solid #1f2937; box-shadow:0 0 18px #0e7490;">
+<span style="color:#00ff00;">$ dev-tip</span>
+
+💡 <span style="color:#38bdf8;">Pro Tip:</span> Your code is a story.  
+Make it readable, make it predictable — so your future self thanks you.
+
+🛠️ Use meaningful names  
+⚡ Keep functions small  
+🚀 Optimize only after it works   
+
+<span style="color:#00ff00;">✔ Saved to: brain/mayur/upgrades.json</span>
 </pre>
 
 </div>
@@ -48,8 +47,6 @@ has a message for you...
 ---
 
 # 🧠 About Me (as Code)
-
-<div align="center">
 
 ```yaml
 name: Mayur Dongare
@@ -76,15 +73,14 @@ achievements:
 mindset: "Do it until you no longer need to introduce yourself."
 ```
 
-</div>
-
 ---
 
-
+<!-- Boy Laptop GIF -->
 <p align="center">
   <img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" width="400"/>
 </p>
 
+---
 
 # 🧩 Tech Stack
 
@@ -117,14 +113,10 @@ mindset: "Do it until you no longer need to introduce yourself."
 # 🟧 LeetCode Badges (Earned)
 
 <p align="center">
-
-  
   <img src="200.gif" width="160">
   <img src="25100.gif" width="160">
   <img src="2550.gif" width="160">
   <img src="202508.gif" width="160">
-
-
 </p>
 
 ---
@@ -145,10 +137,9 @@ mindset: "Do it until you no longer need to introduce yourself."
 
 ---
 
-# 🏆 GitHub Trophies
-
+# 🏆 GitHub Trophies  
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mayurdongare269&theme=discord&column=6&margin-w=10&margin-h=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mayurdongare269&theme=algolia&margin-w=10&margin-h=10&column=6" />
 </p>
 
 ---
