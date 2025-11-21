@@ -3,6 +3,26 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8000FF&height=200&section=header&text=Mayur%20Dongare&fontSize=60&fontColor=E0E8FF&animation=twinkling" />
 </div>
 
+<!-- 🌌 Static Header (No Waves) -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=8000FF&height=200&section=header&text=Mayur%20Dongare&fontSize=60&fontColor=E0E8FF" />
+</div>
+
+
+<!-- 🌌 Static Rect Header -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=8000FF&height=200&section=header&text=Mayur%20Dongare&fontSize=60&fontColor=E0E8FF" />
+</div>
+
+
+<!-- 🌌 Static Rounded Header -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=8000FF&height=200&section=header&text=Mayur%20Dongare&fontSize=60&fontColor=E0E8FF" />
+</div>
+
+
+
+
 
 <!-- ⚡ Hacker Terminal Intro -->
 <!-- ⚡ Hacker Terminal Intro -->
