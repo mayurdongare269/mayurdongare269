@@ -172,8 +172,30 @@ mindset: "Do it until you no longer need to introduce yourself."
 
 # 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mayurdongare269&theme=algolia&margin-w=10&margin-h=10&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mayurdongare269&theme=darkhub&no-frame=true&no-bg=true&margin-w=5&margin-h=5" />
 </p>
+
+
+# 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mayurdongare269&theme=discord&no-frame=true&margin-w=10" />
+
+</p>
+
+# 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mayurdongare269&theme=dracula&no-bg=true&margin-w=10" />
+
+
+</p>
+
+
+# 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mayurdongare269&theme=matrix&no-frame=true&no-bg=true" />
+
+</p>
+
 
 ---
 
