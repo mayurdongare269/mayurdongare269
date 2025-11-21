@@ -170,10 +170,11 @@ mindset: "Do it until you no longer need to introduce yourself."
 
 ---
 
-# 🏆 GitHub Trophies  
+# 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mayurdongare269&theme=darkhub&no-frame=true&no-bg=true&margin-w=5&margin-h=5" />
+  <img src="https://github-readme-trophy.vercel.app/?username=mayurdongare269&theme=radical&no-bg=true&no-frame=true&margin-w=10" />
 </p>
+
 
 
 ---
