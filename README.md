@@ -1,15 +1,12 @@
-<!-- 🌌 Premium Static Banner -->
-<div align="center" style="
-background: linear-gradient(135deg, #0a0f1f, #1a237e);
-padding: 35px 10px;
-border-radius: 12px;
-margin-bottom: 20px;
-box-shadow: 0px 0px 20px rgba(0, 102, 255, 0.4);">
+<!-- 🔷 Static Glow Header -->
+<div align="center">
 
-<h1 style="color:#9bbcff; font-size:48px; font-weight:700; text-shadow:0px 0px 25px #6ab1f7;">
-✨ Mayur Dongare ✨
-</h1>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&duration=2000&pause=800&color=6AB1F7&center=true&vCenter=true&width=900&lines=Mayur+Dongare" />
 
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/-_-%231A1B27.svg?style=for-the-badge&colorA=000000&colorB=000000&labelColor=000000" width="100%" height="2px">
 </div>
 
 
