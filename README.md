@@ -1,7 +1,17 @@
-<!-- 🌊 Animated Header -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8000FF&height=200&section=header&text=Mayur%20Dongare&fontSize=60&fontColor=E0E8FF&animation=twinkling" />
+<!-- 🌌 Premium Static Banner -->
+<div align="center" style="
+background: linear-gradient(135deg, #0a0f1f, #1a237e);
+padding: 35px 10px;
+border-radius: 12px;
+margin-bottom: 20px;
+box-shadow: 0px 0px 20px rgba(0, 102, 255, 0.4);">
+
+<h1 style="color:#9bbcff; font-size:48px; font-weight:700; text-shadow:0px 0px 25px #6ab1f7;">
+✨ Mayur Dongare ✨
+</h1>
+
 </div>
+
 
 <!-- ⚡ Hacker Terminal Intro -->
 <!-- ⚡ Hacker Terminal Intro -->
