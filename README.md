@@ -29,7 +29,7 @@
 
 ---
 
-# 🧠 About Me (as Code)
+# 🧠 About Me
 
 ```yaml
 name: Mayur Dongare
@@ -101,6 +101,25 @@ mindset: "Do it until you no longer need to introduce yourself."
   <img src="2550.gif" width="160">
   <img src="202508.gif" width="160">
 </p>
+
+---
+
+# 📈 GitHub Insights & Top Languages
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mayurdongare269&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=mayurdongare269&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurdongare269&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+
+
 
 ---
 
