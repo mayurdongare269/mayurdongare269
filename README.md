@@ -179,7 +179,7 @@ mindset: "Do it until you no longer need to introduce yourself."
 
 ---
 
-# 💬 Quote I Follow
+# 💬 Quote
 
 <p align="center" style="padding: 10px; border-radius: 10px; background: rgba(255,255,255,0.03); backdrop-filter: blur(3px); border: 1px solid rgba(255,255,255,0.15);">
   <em>"Do it until you no longer need to introduce yourself." — Anonymous</em>
