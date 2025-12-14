@@ -3,8 +3,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8000FF&height=200&section=header&text=Mayur%20Dongare&fontSize=60&fontColor=E0E8FF&animation=twinkling" />
 </div>
 
-
 <!-- ⚡ Hacker Terminal Intro -->
+
 <!-- ⚡ Hacker Terminal Intro -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=720&lines=%3E+Hello+World...;%3E+I'm+Mayur+Dongare;%3E+Full+Stack+Developer;%3E+ML+%26+Agentic+AI+Practitioner;%3E+2x+Hackathon+Winner+🏆;%3E+Building+Cool+Tech+Everyday!🔥" />
