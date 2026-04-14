@@ -55,6 +55,7 @@ skills:
 achievements:
   - "2× Hackathon Winner"
   - "Runner-up at IIT Dharwad"
+  - "Project Competition winner"
 
 mindset: "Do it until you no longer need to introduce yourself."
 ```
