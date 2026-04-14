@@ -141,13 +141,16 @@ mindset: "Do it until you no longer need to introduce yourself."
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mayurdongare269&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<!-- GitHub Stats -->
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mayurdongare269&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800" />
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=mayurdongare269&theme=tokyonight&hide_border=true" />
+<!-- Streak Stats (FIXED VERSION) -->
+<img height="170" src="https://streak-stats.demolab.com?user=mayurdongare269&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurdongare269&layout=compact&theme=tokyonight&hide_border=true" />
+<!-- Top Languages -->
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurdongare269&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
 </div>
 
