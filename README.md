@@ -152,6 +152,9 @@ mindset: "Do it until you no longer need to introduce yourself."
 <!-- Top Languages -->
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurdongare269&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
+<br/>
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mayurdongare269&theme=tokyonight" />
+
 </div>
 
 
