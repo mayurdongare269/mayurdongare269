@@ -12,7 +12,7 @@
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/2×%20Hackathon%20Winner-🏆-brightgreen?style=for-the-badge">
+  <img src="https://img.shields.io/badge/3×%20Hackathon%20Winner-🏆-brightgreen?style=for-the-badge">
   <img src="https://img.shields.io/badge/Runner%20Up-IIT%20Dharwad-blue?style=for-the-badge">
 </p>
 
