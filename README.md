@@ -130,6 +130,8 @@ mindset: "Do it until you no longer need to introduce yourself."
 
 <p align="center">
   <img src="365.gif" width="160">
+  <img src="2.gif" width="160">
+  <img src="1.gif" width="160">
   <img src="202512.gif" width="160">
   <img src="202511.gif" width="160">
   <img src="202508.gif" width="160">
