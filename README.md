@@ -42,18 +42,19 @@ education: "B.Tech in Computer Science"
 interests:
   - Full Stack Development
   - Machine Learning
-  - Agentic AI
-  - Computer Vision
+  - Gen AI
   - NLP
+  - Agentic AI
+ 
 
 skills:
   - Java, Python, JavaScript
   - React, Node.js, Express
-  - MongoDB, MySQL
+  - MongoDB, MySQL, No-SQL DB
   - DSA, Git, Linux
 
 achievements:
-  - "2× Hackathon Winner"
+  - "3× Hackathon Winner"
   - "Runner-up at IIT Dharwad"
   - "Project Competition winner"
 
