@@ -7,6 +7,7 @@
 
 <!-- ⚡ Hacker Terminal Intro -->
 <!-- ⚡ Hacker Terminal Intro -->
+<!-- ⚡ Hacker Terminal Intro -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=720&lines=%3E+Hello+World...;%3E+I'm+Mayur+Dongare;%3E+Full+Stack+Developer;%3E+ML+%26+Agentic+AI+Practitioner;%3E+3x+Hackathon+Winner+🏆;%3E+Building+Cool+Tech+Everyday!🔥" />
 </div>
@@ -20,9 +21,17 @@
   <a href="https://linkedin.com/in/mayur-dongare-7b813a296">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <img src="https://img.shields.io/badge/LeetCode-Active%20Coder-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
-  <a href="https://www.hackerearth.com/@mayurdongare666">
-    <img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=Blue">
+
+  <a href="https://mayurdongare-portfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-00C853?style=for-the-badge&logo=googlechrome&logoColor=white">
+  </a>
+
+  <a href="https://leetcode.com/u/Nexor_01/">
+    <img src="https://img.shields.io/badge/LeetCode-Nexor__01-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
+  </a>
+
+  <a href="https://www.hackerrank.com/profile/mayurdongare666">
+    <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white">
   </a>
 </p>
 
