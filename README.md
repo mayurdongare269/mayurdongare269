@@ -26,9 +26,9 @@
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-00C853?style=for-the-badge&logo=googlechrome&logoColor=white">
   </a>
 
-  <a href="https://leetcode.com/u/Nexor_01/">
-    <img src="https://img.shields.io/badge/LeetCode-Nexor__01-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
-  </a>
+<a href="https://leetcode.com/u/Nexor_01/">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
+</a>
 
   <a href="https://www.hackerrank.com/profile/mayurdongare666">
     <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white">
@@ -57,7 +57,7 @@ interests:
  
 
 skills:
-  - Java, Python, JavaScript
+  - Java, JavaScript, Python
   - React, Node.js, Express
   - MongoDB, MySQL, No-SQL DB
   - DSA, Git, Linux
@@ -67,7 +67,7 @@ achievements:
   - "Runner-up at IIT Dharwad"
   - "Project Competition winner"
 
-mindset: "Do it until you no longer need to introduce yourself."
+mindset: "Build. Learn. Solve. Repeat."
 ```
 
 ---
@@ -82,9 +82,10 @@ mindset: "Do it until you no longer need to introduce yourself."
 
 ### 🚀 Languages
 ![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white)
+
 
 ---
 
@@ -92,12 +93,12 @@ mindset: "Do it until you no longer need to introduce yourself."
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ---
 
-### ⚙️ Backend / Databases
+### ⚙️ Backend & Databases
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -107,11 +108,18 @@ mindset: "Do it until you no longer need to introduce yourself."
 
 ---
 
-### 🤖 AI / Machine Learning / Agentic AI
+### 🤖 AI / Machine Learning
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Agentic AI](https://img.shields.io/badge/Agentic%20AI-8A2BE2?style=for-the-badge&logo=superuser&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-6A5ACD?style=for-the-badge&logo=opencv&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-CC0000?style=for-the-badge&logo=apacheopenofficewriter&logoColor=white)
+
+---
+
+### ⚡ DevOps & Methodologies
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-0A66C2?style=for-the-badge&logo=githubactions&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-009688?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![Software Project Management](https://img.shields.io/badge/Software%20Project%20Management-4B0082?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
 
@@ -129,6 +137,7 @@ mindset: "Do it until you no longer need to introduce yourself."
 ### ⚡ CS Fundamentals
 - **DSA**
 - **OOP**
+- **DBMS**
 - **Operating Systems (OS)**
 - **Computer Networks (CN)**
 - **Socket Programming, Swing, AWT**
